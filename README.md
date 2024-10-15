@@ -4,4 +4,4 @@ input a,b;
 output x;
 and (x,a,b);
 endmodule
-# sa
+
